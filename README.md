@@ -2,5 +2,7 @@
 
 
 This is the new version of C-Gate Server incorporating the new database (.db) format.
+Working from a local repository for now until I get my head around how to use Gitub instead.
+
 #
 [Click here for DockerHub Image](https://hub.docker.com/r/pktechnology/cgateserver)
